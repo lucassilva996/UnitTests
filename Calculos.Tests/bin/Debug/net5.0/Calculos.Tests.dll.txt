@@ -1,0 +1,2 @@
+Calculos.Tests.CalculadoraTests.Soma_DeveRetornarOValorCorreto
+Calculos.Tests.UnitTest1.TestMethod1

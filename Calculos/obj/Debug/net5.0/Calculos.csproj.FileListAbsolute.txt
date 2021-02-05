@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\bin\Debug\net5.0\Calculos.deps.json
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\bin\Debug\net5.0\Calculos.dll
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\bin\Debug\net5.0\ref\Calculos.dll
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\bin\Debug\net5.0\Calculos.pdb
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.dll
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\ref\Calculos.dll
+C:\Users\lucas\OneDrive\Documentos\dev\UnitTest\Calculos\obj\Debug\net5.0\Calculos.pdb
